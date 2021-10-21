@@ -1,0 +1,20 @@
+C:\Users\Lenovo\source\repos\Car Racing\Car Racing\bin\Debug\Car Racing.exe.config
+C:\Users\Lenovo\source\repos\Car Racing\Car Racing\bin\Debug\Car Racing.exe
+C:\Users\Lenovo\source\repos\Car Racing\Car Racing\bin\Debug\Car Racing.pdb
+C:\Users\Lenovo\source\repos\Car Racing\Car Racing\obj\Debug\Car Racing.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Car Racing\Car Racing\obj\Debug\Car_Racing.Car_Racing.resources
+C:\Users\Lenovo\source\repos\Car Racing\Car Racing\obj\Debug\Car_Racing.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Car Racing\Car Racing\obj\Debug\Car Racing.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Car Racing\Car Racing\obj\Debug\Car Racing.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Car Racing\Car Racing\obj\Debug\Car Racing.exe
+C:\Users\Lenovo\source\repos\Car Racing\Car Racing\obj\Debug\Car Racing.pdb
+C:\Users\Younes\Desktop\Folders\Apps\Car Racing\Car Racing\bin\Debug\Car Racing.exe.config
+C:\Users\Younes\Desktop\Folders\Apps\Car Racing\Car Racing\bin\Debug\Car Racing.exe
+C:\Users\Younes\Desktop\Folders\Apps\Car Racing\Car Racing\bin\Debug\Car Racing.pdb
+C:\Users\Younes\Desktop\Folders\Apps\Car Racing\Car Racing\obj\Debug\Car Racing.csprojAssemblyReference.cache
+C:\Users\Younes\Desktop\Folders\Apps\Car Racing\Car Racing\obj\Debug\Car_Racing.Car_Racing.resources
+C:\Users\Younes\Desktop\Folders\Apps\Car Racing\Car Racing\obj\Debug\Car_Racing.Properties.Resources.resources
+C:\Users\Younes\Desktop\Folders\Apps\Car Racing\Car Racing\obj\Debug\Car Racing.csproj.GenerateResource.cache
+C:\Users\Younes\Desktop\Folders\Apps\Car Racing\Car Racing\obj\Debug\Car Racing.csproj.CoreCompileInputs.cache
+C:\Users\Younes\Desktop\Folders\Apps\Car Racing\Car Racing\obj\Debug\Car Racing.exe
+C:\Users\Younes\Desktop\Folders\Apps\Car Racing\Car Racing\obj\Debug\Car Racing.pdb
